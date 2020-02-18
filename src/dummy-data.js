@@ -57,6 +57,22 @@ const dummyData = [
                 text: "Dancing with the Stars (of the jungle) 🌟🌟",
             }
         ]
+    },
+    {
+        username: "vanshika_pundir",
+        thumbnailUrl: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/80639095_622407905180015_8231743919549313892_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=RF4swVpeBGcAX_DzVwH&oh=551edd33f9809017bf3447bd0ca3e991&oe=5EF89FFE",
+        imageUrl: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/62077893_2067246533404130_188388236855317882_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=cny2072ir-AAX_0EpDt&oh=a8470110046048e3cc3296c7628f6ecc&oe=5EE2FA85",
+        likes: 51,
+        comments: [
+            {
+                username: "vanshika_pundir",
+                text: "Crazy Date Nights with this crazy man 🤪 😍"
+            },
+            {
+                username: "swatikunte",
+                text: "LOL"
+            }
+        ]
     }
 ];
 
