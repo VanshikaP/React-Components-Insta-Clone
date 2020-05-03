@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
+  "short_name": "Instagram Clone by Vanshika",
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Finstagram&psig=AOvVaw0MQQBNU7ncC5kVL_ObSIvc&ust=1588634809601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjs9IDsmOkCFQAAAAAdAAAAABAD",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
