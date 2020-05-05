@@ -50,6 +50,10 @@
   margin: 10px;
 }
 
+.like-section-wrapper.like{
+  color: rgb(241, 14, 14);
+}
+
 .like-number {
   width: 100px;
   margin: 15px 0px;

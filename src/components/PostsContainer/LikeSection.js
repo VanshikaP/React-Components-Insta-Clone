@@ -3,17 +3,17 @@
 // HINT: You will need to add an onClick event pass through your props and update the hard coded Likes
 import React from "react";
 
-const LikeSection = ({likes, likeStatus, incrementLikes}) => {
+const LikeSection = ({likes, incrementLikes}) => {
   return (
     <div>
     <div
       className="like-section"
       key="likes-icons-container"
     >
-      <div className="like-section-wrapper">
+      <div className="like-section-wrapper like">
         <i className="far fa-heart" onClick = {incrementLikes}/>
       </div>
-      <div className="like-section-wrapper">
+      <div className="like-section-wrapper comment">
         <i className="far fa-comment" />
       </div>
     </div>
